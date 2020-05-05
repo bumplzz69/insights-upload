@@ -41,7 +41,7 @@ pycodestyle==2.4.0
 pycparser==2.19
 pycryptodome==3.7.0
 pyflakes==2.0.0
-pylint==2.1.1
+pylint==2.5.0
 pytest==3.10.1
 pytest-html==1.19.0
 pytest-metadata==1.7.0
